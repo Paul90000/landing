@@ -1,0 +1,17 @@
+
+
+@media screen and (max-width: 905px) {
+  .cards {
+    flex-direction: column;
+    align-content: center;
+  }
+
+  .card {
+    margin: 10px 0px;
+  }
+}
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 825px) {
+
+}

@@ -1,0 +1,17 @@
+footer {
+  padding: 70px;
+  display: flex;
+  justify-content: center;
+  background-color: #B8A965;
+  margin-top: 8em;
+}
+
+.fa-brands {
+  margin: 0 5px;
+  font-size: 30px;
+  color: #2F2504;
+}
+
+.fa-brands:hover {
+  color: #EBBB1E;
+}

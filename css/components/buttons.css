@@ -1,0 +1,14 @@
+
+/* Apply Button */
+
+#btn-apply {
+  padding: 8px 16px;
+  color: #00E0B0;
+  background-color: #313628;
+  border-radius: 4px;
+}
+
+#btn-apply:hover {
+  color: #85FFE4;
+  transition: 0.7s ease;
+}
